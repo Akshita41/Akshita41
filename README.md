@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development and DSA in Java**
 
-- 👨‍💻 All of my projects are available at [https://akshita41.github.io/Personal-website/](https://akshita41.github.io/Personal-website/)
+- 👨‍💻 All of my projects are available at [https://portfolio-khaki-delta-42.vercel.app/](https://portfolio-khaki-delta-42.vercel.app/)
 
 - 💬 Ask me about **Java**
 
